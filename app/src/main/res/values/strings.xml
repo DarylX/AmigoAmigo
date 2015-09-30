@@ -11,4 +11,7 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- Main Page Text -->
+    <string name="main_btn_txt">Bump</string>
 </resources>
